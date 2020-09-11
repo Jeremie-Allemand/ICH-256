@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57ae0e0f-3f47-4be2-9cb5-8a3ab509d04b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1giQVPvvq75Y1FvuS9myyciM4Rt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InscriptionForm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57ae0e0f-3f47-4be2-9cb5-8a3ab509d04b" name="Default Changelist" comment="" />
+      <created>1598594955168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598594955168</updated>
+      <workItem from="1598594956191" duration="1088000" />
+      <workItem from="1598596203387" duration="10337000" />
+      <workItem from="1598611792707" duration="1013000" />
+      <workItem from="1598618253642" duration="2868000" />
+      <workItem from="1598938184732" duration="333000" />
+      <workItem from="1598939644625" duration="5608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="306" key="FileChooserDialogImpl" timestamp="1598939648209">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598600224881" />
+    <state x="740" y="306" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1598939648209" />
+    <state x="789" y="242" key="NewPhpClassDialog" timestamp="1598619245516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="242" key="NewPhpClassDialog/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598619245516" />
+    <state x="316" y="446" key="NewPhpFileDialog" timestamp="1598619269449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="316" y="446" key="NewPhpFileDialog/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598619269449" />
+  </component>
+</project>

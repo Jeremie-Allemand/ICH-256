@@ -1,0 +1,33 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	font-family:sans-serif;
+	background: #FFF;
+}
+
+.loader{
+	margin: 0 auto;
+	margin-top:13%;
+	display: block;
+	position: relative;
+	width: 150px;
+	height: 150px;
+	border: solid 5px transparent;
+	border-top: solid 5px aqua; 
+	border-radius: 50%;
+	animation: mid 1.5s linear infinite;
+}
+
+
+@keyframes mid{
+	0%{
+		transform: rotateZ(0deg);
+	}
+	100%{
+		transform: rotateZ(360deg);
+	}
+}
+
+
+

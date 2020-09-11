@@ -1,0 +1,54 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+img{
+    display: block;
+    margin: auto;
+    visibility: hidden;
+}
+
+.hinge{
+    animation:rotation 1s, fall 1s 1s;
+}
+
+@keyframes rotation{
+    0%{
+        visibility: visible;
+    }
+    
+    25%{
+        transform-origin: top left;
+        transform: rotate(50deg)
+    }
+    50%{
+        transform-origin: top left;
+        transform: rotate(30deg)
+    }
+    75%{
+        transform-origin: top left;
+        transform: rotate(45deg)
+    }
+    100%{
+        transform-origin: top left;
+        transform: rotate(35deg);
+    }
+}
+
+@keyframes fall{
+    0%{
+        visibility: visible;
+        transform-origin: top left;
+        transform: rotate(35deg);
+        opacity: 1.0
+    }
+
+    100%{
+
+        transform-origin: center;
+        transform: translateY(1000px);
+        opacity: 0.0;
+
+    }
+    
+}

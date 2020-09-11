@@ -1,0 +1,22 @@
+$(function () {
+    $('#unit1_per, #unit2_per').on("keyup", function () {
+        if ($(this).attr("id")=="unit1_per"){
+            var temperature = $('#unit1_per').val();
+            if ($('#unit1_per').val()==""){
+                $('#unit2_per').val("");
+            }
+            else {
+                $('#unit2_per').val((temperature*9/5) + 32);
+            }
+        }
+        else {
+            var temperature = $('#unit2_per').val();
+            if ($('#unit2_per').val()==""){
+                $('#unit1_per').val("");
+            }
+            else {
+                $('#unit1_per').val((temperature-32)*5/9);
+            }
+        }
+    })
+});
